@@ -4,19 +4,7 @@ A Raspberry Pi–based edge-AI temperature monitoring system that reads from a D
 
 ---
 
-## Table of Contents
-
-1. [Features](#features)  
-2. [Prerequisites](#prerequisites)  
-3. [Installation & Setup](#installation--setup)  
-4. [Configuration](#configuration)  
-5. [Usage](#usage)  
-6. [File Structure](#file-structure)  
-7. [Systemd Service](#systemd-service)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
-10. [Contact](#contact)  
-
+![Image](https://github.com/user-attachments/assets/e5a75dd9-f340-449a-b49a-5b04045d810b)
 ---
 
 ## Features
