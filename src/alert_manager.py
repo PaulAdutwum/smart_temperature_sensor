@@ -1,6 +1,6 @@
 """
 alert_manager.py
-Generates human‑friendly overheat alerts with OpenAI and dispatches them via MQTT and/or SNS.
+Generates overheat alerts with OpenAI and dispatches them via MQTT and/or SNS.
 """
 
 from __future__ import annotations
