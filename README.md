@@ -4,9 +4,7 @@ A Raspberry Pi–based edge-AI system that continuously reads from a DS18B20 tem
 
 ---
 
-![Smart Home Temperature Monitor](https://github.com/user-attachments/assets/e5a75dd9-f340-449a-b49a-5b04045d810b)
 
----
 
 ## 🔑 Key Features
 
